@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.exampleproject-14469661.ue4editor.exe",
+			"app_key": "application.generated.ue.vr_engine-template-17155196.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "C:/Users/jordo/Documents/Unreal Projects/VR_Engine/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "ExampleProject-14469661 [UE Editor]"
+					"name": "VR_Engine Template-17155196 [UE Editor]"
 				}
 			}
 		}
