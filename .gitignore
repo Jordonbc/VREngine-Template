@@ -13,4 +13,5 @@ Packaged
 *.suo
 *.xcodeproj
 *.xcworkspace
-Plugins
+Plugins/VREngine
+Plugins/VREngineGuns
