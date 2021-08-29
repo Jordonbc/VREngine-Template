@@ -1,6 +1,0 @@
-[submodule "Plugins/VREngine"]
-	path = Plugins/VREngine
-	url = https://github.com/Jordonbc/VREngine.git
-	branch = 4.25
-[submodule "VREngine"]
-	branch = 4.25
