@@ -224,6 +224,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "GooglePAD",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
