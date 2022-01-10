@@ -1,0 +1,1 @@
+"F:\Unreal Engine\UE_4.27\Engine\Binaries\Win64\UE4Editor.exe" "%CD%\..\VR_Engine Template.uproject" /Game/Levels/ExampleMap?listen -log -server
